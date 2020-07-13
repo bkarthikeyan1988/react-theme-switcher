@@ -1,0 +1,12 @@
+body {
+  padding: 16px;
+}
+
+.themeSwitcher {
+  border: 1px solid #222;
+  cursor: pointer;
+  padding: 16px;
+  width: 100px;
+  text-align: center;
+  margin-bottom: 16px;
+}
